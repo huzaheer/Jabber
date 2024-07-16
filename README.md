@@ -91,7 +91,8 @@ Jabber successfully integrated hardware and software, providing both manual and 
 - [Automated Movement](#): *(Insert link to video of the robot performing automated movements)*
 
 ### Images
-- ![Robot Arm Dimensions](path/to/dimensions-image.jpg): *(Insert an image showing the dimensions of the robot arm)*
+- ![Robot Arm Dimensions](/Robot1.png)
+- ![Robot Arm Dimensions](/Robot2.png)
 
 ## Authors
 - **Humza Chouhdry**
