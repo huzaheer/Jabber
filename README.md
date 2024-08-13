@@ -87,7 +87,8 @@ Jabber successfully integrated hardware and software, providing both manual and 
 
 ## Media
 ### Videos
-- [Manual Movement](#https://youtube.com/shorts/q_4oNUKCJMg)
+- [![Manual Movement](https://img.youtube.com/vi/q_4oNUKCJMg/maxresdefault.jpg)](https://youtu.be/q_4oNUKCJMg)
+
 - [Automated Movement](#)
 
 ### Images
