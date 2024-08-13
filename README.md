@@ -87,8 +87,8 @@ Jabber successfully integrated hardware and software, providing both manual and 
 
 ## Media
 ### Videos
-- [Manual Movement](#): *(https://youtube.com/shorts/q_4oNUKCJMg)*
-- [Automated Movement](#): *(Insert link to video of the robot performing automated movements)*
+- [Manual Movement](#https://youtube.com/shorts/q_4oNUKCJMg)
+- [Automated Movement](#)
 
 ### Images
 - ![Robot Arm Dimensions](/robot_diagram.png)
