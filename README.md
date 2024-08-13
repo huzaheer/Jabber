@@ -86,10 +86,11 @@ Jabber is a five-servo robot arm controlled using two joysticks and switches on 
 Jabber successfully integrated hardware and software, providing both manual and automated control of a robot arm. Despite various challenges, the project was completed as a minimum viable product and laid the foundation for future enhancements. The project provided valuable learning experiences in robotics, hardware, and software integration.
 
 ## Media
-### Videos
-- [![Manual Movement](https://img.youtube.com/vi/q_4oNUKCJMg/maxresdefault.jpg)](https://youtu.be/q_4oNUKCJMg)
+### Automated Movement
+[![Manual Movement](https://img.youtube.com/vi/q_4oNUKCJMg/maxresdefault.jpg)](https://youtu.be/q_4oNUKCJMg)
 
-- [Automated Movement](#)
+### Manual Movement
+[![Manual Movement](https://img.youtube.com/vi/5qKv6qxTVR4/maxresdefault.jpg)](https://youtu.be/5qKv6qxTVR4)
 
 ### Images
 - ![Robot Arm Dimensions](/robot_diagram.png)
