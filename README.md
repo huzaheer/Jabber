@@ -2,7 +2,7 @@
 
 ## Overview
 
-Jabber is a five-servo robot arm designed as a final project for the ECE 350 course at Duke University. It can be manually controlled using joysticks and switches on a Nexys A7 FPGA board or programmed for automated movements. This README provides an in-depth overview of the project, including its hardware setup, software implementation, and challenges faced during development.
+Jabber is a five-servo robot arm designed as a final project for the ECE 350 course at Duke University. It can be manually controlled using joysticks and switches on a Nexys A7 FPGA board or programmed for automated movements. This README provides an in-depth overview of the project, including its hardware setup, software implementation, and challenges faced during development. Inspiration for the project as well as parts of its desgin were sourced from youtube channel **Build Some Stuff**.
 
 ## Table of Contents
 1. [Introduction](#introduction)
